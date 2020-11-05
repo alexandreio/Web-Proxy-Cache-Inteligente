@@ -1,6 +1,6 @@
 # Web Proxy Cache Inteligente
 
-This repository contains my final work for the Computer Engineering graduation at the [Unipinhal](https://www.unipinhal.edu.br/), titled "Web Proxy Cache Inteligente".
+Este repositório contém meu trabalho final para graduação em Egenharia de Computação pela [Unipinhal](https://www.unipinhal.edu.br/), com o título "Web Proxy Cache Inteligente".
 
 ![Block diagram](images/diagrama.png)
 
